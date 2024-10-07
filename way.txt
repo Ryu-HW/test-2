@@ -1,0 +1,5 @@
+git init // 해당 폴더에 깃 생성
+git add 파일명 // 파일 올리기 or git add . // 해당폴더 모든파일 올리기
+git commit -m "파일명" //해당 파일명으로 저장
+git remote add origin https://github.com/Ryu-HW/test-2.git //해당 git사이트?로 저장
+git push -u origin main // 마지막으로 올리기. -u랑 main은 처음에만 쓰면 된다고 하더라
